@@ -17,4 +17,3 @@ export interface AnalysisPayload {
   recommendation: string;
   review_price_cents: number;
 }
-components / StartReviewButton;
