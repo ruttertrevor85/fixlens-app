@@ -36,3 +36,4 @@ Then copy the signing secret into `STRIPE_WEBHOOK_SECRET`.
 4. Add `fixlens.com` in Vercel project settings
 5. Point your domain DNS to Vercel
 6. Register your production Stripe webhook endpoint as `https://fixlens.com/api/webhook`
+# fixlens-app
