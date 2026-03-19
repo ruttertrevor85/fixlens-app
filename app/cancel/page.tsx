@@ -1,0 +1,1 @@
+export default function CancelPage(){return <div className="card"><h1>Checkout canceled</h1><p className="small">No charge was made. You can return to the upload page whenever you are ready.</p></div>}
